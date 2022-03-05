@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EkiOka
+- 👀 I’m interested in development support system.
+- 🌱 I’m currently learning python, jinja2, yaml, visual studio code.
+- 💞️ I’m looking to collaborate on stand alone development system of network can not used environment.
+- 📫 How to reach me method is nothing! hahaha. I'm stand alone! I'm bocchi...dethe!
